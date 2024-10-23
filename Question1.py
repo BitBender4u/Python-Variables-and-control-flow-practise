@@ -1,0 +1,10 @@
+a=20
+b=23
+w=a+b
+x=a/b
+y=a*b
+z=a-b
+print(w)
+print(x)
+print(y)
+print(z)
